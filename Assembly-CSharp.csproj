@@ -65,6 +65,8 @@
     <Compile Include="Assets\autogridlayoutfiles\AutoGridLayout.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\InputManager.cs" />
+    <Compile Include="Assets\Scripts\Tile.cs" />
+    <Compile Include="Assets\Scripts\TileStyleHolder.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/sultansidhu/Desktop/Development/C# and Unity/2584/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
