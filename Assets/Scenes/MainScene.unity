@@ -2004,13 +2004,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileStyles:
-  - Number: 0
-    TileColor:
-      serializedVersion: 2
-      rgba: 4292468706
-    TextColor:
-      serializedVersion: 2
-      rgba: 4281479730
   - Number: 1
     TileColor:
       serializedVersion: 2
@@ -2134,13 +2127,6 @@ MonoBehaviour:
     TileColor:
       serializedVersion: 2
       rgba: 4294901965
-    TextColor:
-      serializedVersion: 2
-      rgba: 4294967295
-  - Number: 6765
-    TileColor:
-      serializedVersion: 2
-      rgba: 4294901870
     TextColor:
       serializedVersion: 2
       rgba: 4294967295
@@ -3757,7 +3743,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 61.56035, y: 61.56035}
+  m_CellSize: {x: 61.185135, y: 61.185135}
   m_Spacing: {x: 5, y: 5}
   m_Constraint: 0
   m_ConstraintCount: 2
